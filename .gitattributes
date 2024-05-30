@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Files to be ignored on the repo Languages statistics
+*.c linguist-detectable=false
+*.h linguist-detectable=false
